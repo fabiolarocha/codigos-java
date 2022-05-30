@@ -14,9 +14,9 @@ public class Main {
 		Locale.setDefault(Locale.US);
 		System.out.printf("%.2f%n", x);
 		System.out.printf("%.3f%n", x);
-		System.out.println(" RESULTADO = " + x + " METROS");
-		System.out.printf(" RESULTADO = %2f metros%n", x);
-		System.out.printf(" %s tem %d anos e ganha R$ %.2f reais%n", nome, idade, renda);
+		System.out.println("RESULTADO = " + x + " METROS");
+		System.out.printf("RESULTADO = %2f metros%n", x);
+		System.out.printf("%s tem %d anos e ganha R$ %.2f reais%n", nome, idade, renda);
 		 
 	}
 
