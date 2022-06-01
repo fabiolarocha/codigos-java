@@ -13,7 +13,7 @@ public class exercicio1 {
 
 		soma = A + B;
 
-		System.out.println("SOMA = " + soma);
+		System.out.println("Soma = " + soma);
 
 		sc.close();
 	}
